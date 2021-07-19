@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jim Le: Full Stack Developer in Vacounver, Canada</title>
-    <link>https://takint.github.io/</link>
-    <description>Recent content on Jim Le: Full Stack Developer in Vacounver, Canada</description>
+    <title>Amir Hatami: Full Stack Developer in Vacounver, Canada</title>
+    <link>https://amhatami.github.io/</link>
+    <description>Recent content on Amir Hatami: Full Stack Developer in Vacounver, Canada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Nov 2020 13:51:13 -0800</lastBuildDate>
     
-	<atom:link href="https://takint.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amhatami.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jim&#39;s braindump</title>
-      <link>https://takint.github.io/post/jim-braindump/</link>
+      <link>https://amhatami.github.io/post/jim-braindump/</link>
       <pubDate>Sun, 29 Nov 2020 13:51:13 -0800</pubDate>
       
-      <guid>https://takint.github.io/post/jim-braindump/</guid>
+      <guid>https://amhatami.github.io/post/jim-braindump/</guid>
       <description> This is my braindump for a few notes about my favourites and interested tools:  C# (C Sharp):
  Multi-threading programming in C# notes
   JavaScript:
@@ -30,10 +30,10 @@
     
     <item>
       <title>React Optimization</title>
-      <link>https://takint.github.io/post/react-optimization/</link>
+      <link>https://amhatami.github.io/post/react-optimization/</link>
       <pubDate>Sun, 29 Nov 2020 11:51:13 -0800</pubDate>
       
-      <guid>https://takint.github.io/post/react-optimization/</guid>
+      <guid>https://amhatami.github.io/post/react-optimization/</guid>
       <description>Parent and child components are often re-rendered in the following scenario:  When setState is called in the same component or parent component.
  Change in the value of “props” received from a parent.
  Calling forceUpdate in the component.
@@ -42,19 +42,19 @@
     
     <item>
       <title>MVC in a Nutshell</title>
-      <link>https://takint.github.io/post/mvc-in-a-nutshell/</link>
+      <link>https://amhatami.github.io/post/mvc-in-a-nutshell/</link>
       <pubDate>Fri, 27 Nov 2020 00:16:09 -0800</pubDate>
       
-      <guid>https://takint.github.io/post/mvc-in-a-nutshell/</guid>
+      <guid>https://amhatami.github.io/post/mvc-in-a-nutshell/</guid>
       <description> There are tons of article about MVC pattern. I&amp;rsquo;d like to wrap it in a simple way and easy to understand, no more explaination. </description>
     </item>
     
     <item>
       <title>OOP Programming</title>
-      <link>https://takint.github.io/post/oop-programming/</link>
+      <link>https://amhatami.github.io/post/oop-programming/</link>
       <pubDate>Tue, 10 Nov 2020 00:23:16 -0800</pubDate>
       
-      <guid>https://takint.github.io/post/oop-programming/</guid>
+      <guid>https://amhatami.github.io/post/oop-programming/</guid>
       <description>Object Oriented Programming: As we all may know, it is a programming paradigm based on the concept of &amp;ldquo;objects&amp;rdquo;.
  Class: classes are blueprint of an object. In other words, a class is a template while object are instances of the class.
  Object: an object is a unique entity which has some properties and methods.
@@ -63,10 +63,10 @@
     
     <item>
       <title>Arrow Function</title>
-      <link>https://takint.github.io/post/arrow-function/</link>
+      <link>https://amhatami.github.io/post/arrow-function/</link>
       <pubDate>Tue, 10 Nov 2020 00:08:25 -0800</pubDate>
       
-      <guid>https://takint.github.io/post/arrow-function/</guid>
+      <guid>https://amhatami.github.io/post/arrow-function/</guid>
       <description>Main benefit:  No binding of &amp;lsquo;this&amp;rsquo;
 ES6 arrow functions can’t be bound to a this keyword, so it will lexically go up a scope, and use the value of this in the scope in which it was defined.
  No self-referencing
@@ -76,30 +76,30 @@ If your function needs to have a self-reference at any point (e.g. recursion, ev
     
     <item>
       <title>Multi-threading programming</title>
-      <link>https://takint.github.io/post/multi-threading-programming/</link>
+      <link>https://amhatami.github.io/post/multi-threading-programming/</link>
       <pubDate>Mon, 09 Nov 2020 12:22:17 -0800</pubDate>
       
-      <guid>https://takint.github.io/post/multi-threading-programming/</guid>
+      <guid>https://amhatami.github.io/post/multi-threading-programming/</guid>
       <description>Thread safety removes the following conditions in the code:  Race condition occurs when two threads access a shared variable at the same time. The first thread reads the variable, and the second thread writes to the same variable at the same time.
  Deadlock case happens in concurrent or multi-threaded environment. It is kind of a situation in which two or more competing threads or tasks wait for the other task to finish and they never finish.</description>
     </item>
     
     <item>
       <title>Welcome to my personal blog posts!</title>
-      <link>https://takint.github.io/post/welcome/</link>
+      <link>https://amhatami.github.io/post/welcome/</link>
       <pubDate>Wed, 29 May 2019 02:50:52 +0200</pubDate>
       
-      <guid>https://takint.github.io/post/welcome/</guid>
+      <guid>https://amhatami.github.io/post/welcome/</guid>
       <description> I hope you could find something helpful on your path here.
 Cheers ! </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://takint.github.io/about/</link>
+      <link>https://amhatami.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://takint.github.io/about/</guid>
+      <guid>https://amhatami.github.io/about/</guid>
       <description>Hi there, I&amp;rsquo;m Jim 👋 I&amp;rsquo;m a software developer from Vancouver, Canada.
 Languages and Tools:
 🔭 I’m currently and mostly working on:
