@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jim Le: Full Stack Developer in Vacounver, Canada</title>
-    <link>https://takint.github.io/tags/</link>
-    <description>Recent content in Tags on Jim Le: Full Stack Developer in Vacounver, Canada</description>
+    <title>Tags on Amir Hatami: Mobile Software Engineer in Vacounver, Canada</title>
+    <link>https://amhatami.github.io/tags/</link>
+    <description>Recent content in Tags on Amir Hatami: Mobile Software Engineer in Vacounver, Canada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 May 2019 02:50:52 +0200</lastBuildDate>
     
-	<atom:link href="https://takint.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amhatami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>.net developer</title>
-      <link>https://takint.github.io/tags/.net-developer/</link>
+      <link>https://amhatami.github.io/tags/.net-developer/</link>
       <pubDate>Wed, 29 May 2019 02:50:52 +0200</pubDate>
       
-      <guid>https://takint.github.io/tags/.net-developer/</guid>
+      <guid>https://amhatami.github.io/tags/.net-developer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cv</title>
-      <link>https://takint.github.io/tags/cv/</link>
+      <link>https://amhatami.github.io/tags/cv/</link>
       <pubDate>Wed, 29 May 2019 02:50:52 +0200</pubDate>
       
-      <guid>https://takint.github.io/tags/cv/</guid>
+      <guid>https://amhatami.github.io/tags/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>full stack .net developer</title>
-      <link>https://takint.github.io/tags/full-stack-.net-developer/</link>
+      <link>https://amhatami.github.io/tags/full-stack-.net-developer/</link>
       <pubDate>Wed, 29 May 2019 02:50:52 +0200</pubDate>
       
-      <guid>https://takint.github.io/tags/full-stack-.net-developer/</guid>
+      <guid>https://amhatami.github.io/tags/full-stack-.net-developer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resume</title>
-      <link>https://takint.github.io/tags/resume/</link>
+      <link>https://amhatami.github.io/tags/resume/</link>
       <pubDate>Wed, 29 May 2019 02:50:52 +0200</pubDate>
       
-      <guid>https://takint.github.io/tags/resume/</guid>
+      <guid>https://amhatami.github.io/tags/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software developer</title>
-      <link>https://takint.github.io/tags/software-developer/</link>
+      <link>https://amhatami.github.io/tags/software-developer/</link>
       <pubDate>Wed, 29 May 2019 02:50:52 +0200</pubDate>
       
-      <guid>https://takint.github.io/tags/software-developer/</guid>
+      <guid>https://amhatami.github.io/tags/software-developer/</guid>
       <description></description>
     </item>
     
