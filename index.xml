@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amir Hatami: Full Stack Developer in Vacounver, Canada</title>
+    <title>Amir Hatami: Mobile Software Engineer in Vacounver, Canada</title>
     <link>https://amhatami.github.io/</link>
-    <description>Recent content on Amir Hatami: Full Stack Developer in Vacounver, Canada</description>
+    <description>Recent content on Amir Hatami: Mobile Software Engineer in Vacounver, Canada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Nov 2020 13:51:13 -0800</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Jim&#39;s braindump</title>
-      <link>https://amhatami.github.io/post/jim-braindump/</link>
+      <title>Amir&#39;s braindump</title>
+      <link>https://amhatami.github.io/post/Amir-braindump/</link>
       <pubDate>Sun, 29 Nov 2020 13:51:13 -0800</pubDate>
       
-      <guid>https://amhatami.github.io/post/jim-braindump/</guid>
+      <guid>https://amhatami.github.io/post/Amir-braindump/</guid>
       <description> This is my braindump for a few notes about my favourites and interested tools:  C# (C Sharp):
  Multi-threading programming in C# notes
   JavaScript:
